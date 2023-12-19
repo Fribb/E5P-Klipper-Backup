@@ -1,0 +1,6 @@
+.env
+secrets.conf
+logs/
+klipper/printer_data/gcodes/
+printer-*.cfg
+klipper/printer_data/backup/
